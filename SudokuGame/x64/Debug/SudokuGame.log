@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  sudoku.cpp
+D:\yazılım\CPP\SudokuGame\SudokuGame\sudoku.cpp(9,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+D:\yazılım\CPP\SudokuGame\SudokuGame\sudoku.cpp(196,23): warning C4101: 'e': yerel değişken başvurusu kaldırıldı
+  Kod Üretiliyor...
+  SudokuGame.vcxproj -> D:\yazılım\CPP\SudokuGame\x64\Debug\SudokuGame.exe
